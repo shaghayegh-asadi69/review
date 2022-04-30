@@ -1,0 +1,45 @@
+#person-img {
+    text-align: center;
+    width: 180px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(190, 149, 146);
+    border-width: 10px;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(171, 225, 225);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.random-btn {
+    margin-top: 15px;
+    padding: 15px;
+    letter-spacing: 2px;
+    border-color: rgb(190, 149, 146);
+    border-radius: 10px;
+}
+
+.prev-btn {
+    padding: 8px;
+    border-color: rgb(190, 149, 146);
+    border-radius: 10px;
+}
+
+.next-btn {
+    padding: 8px;
+    margin-left: 10px;
+    border-color: rgb(190, 149, 146);
+    border-radius: 10px;
+}
